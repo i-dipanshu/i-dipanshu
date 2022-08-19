@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dipanshu,</h1>
+<h1 align="center">Hi 👋, I'm Dipanshu</h1>
 <h3 align="center">A Full Stack Developer in Mern stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-dipanshu&label=Profile%20views&color=0e75b6&style=flat" alt="i-dipanshu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-dipanshu" alt="i-dipanshu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_dipansh" target="blank"><img src="https://img.shields.io/twitter/follow/_dipansh?logo=twitter&style=for-the-badge" alt="_dipansh" /></a> </p>
 

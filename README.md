@@ -14,7 +14,7 @@
 
 🔸I have build Multiple Business Standard Web apps in Mern.
 
-🔹[Latest project](https://github.com/i-dipanshu/E-commerce/tree/main/server) : Full fledged E-Commerce Web Server in Node.js meeting today's Business 
+🔹[Latest project](https://github.com/i-dipanshu/ecommerce-backend) : Full fledged E-Commerce Web Server in Node.js meeting today's Business 
 Standard.
 
 🔸[Current Project](https://github.com/i-dipanshu/E-commerce/tree/main/client): Working on the frontend for above project. It is being build with React and Redux.

@@ -2,22 +2,24 @@
 <h3 align="center">Open Source Enthusiast | MERN Developer | Learning Devops </h3>
 <br>
 
-🔹I would love to meet like minded people, connect with them, and together we can help the open source community to grow.
+🔸Open source is ❤️
 
-🔸I'm looking for open source projects to contribute, if you have one please do let me know.
+🔸On a learning Spree 🏃‍♂️
 
-🔹Reach me at **medipansh@gmail.com**
+🔹Fellow Developer who makes mistakes and learns from it.
 
 # About me
 
-🔹I'm 2nd year undergrad pursuing BTECH in CSE.
+🔹I'm student pursuing BTECH in CSE. One Down Three More To Go.
 
 🔸I have build Multiple Business Standard Web apps in Mern.
 
-🔹[Latest project](https://github.com/i-dipanshu/ecommerce-backend) : Full fledged E-Commerce Web Server in Node.js meeting today's Business 
+🔹[Latest project](https://github.com/i-dipanshu/ecommerce-backend) : Full fledged E-Commerce REST API in Node.js meeting today's Business 
 Standard.
 
 🔸[Current Project](https://github.com/i-dipanshu/E-commerce/tree/main/client): Working on the frontend for above project. It is being build with React and Redux.
+
+🔹Reach me at **medipansh@gmail.com**
 
 
 # My Skills
